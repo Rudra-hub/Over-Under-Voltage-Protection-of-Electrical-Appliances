@@ -1,0 +1,2 @@
+# Over Voltage and Under Voltage Protection System for Electrical Appliances
+This is an under/over-voltage protection circuit that protects refrigerators as well as other appliances from under &amp; over-voltage. Operational amplifier IC LM324 (IC2) is used here as a comparator. IC LM324 consists of four operational amplifiers, of which only two operational amplifiers (N1 and N2) are used in the circuit.
